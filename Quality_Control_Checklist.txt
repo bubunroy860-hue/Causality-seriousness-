@@ -1,0 +1,13 @@
+QUALITY-CONTROL CHECKLIST
+
+[✓] Four assessment cases included.
+[✓] Causality assessed separately from seriousness.
+[✓] Seriousness assessed using recognized criteria.
+[✓] Expectedness assessed separately.
+[✓] Written rationale supplied for every case.
+[✓] Dechallenge/rechallenge considered.
+[✓] No causality category assigned solely from seriousness.
+[✓] Constructed assumptions explicitly labelled.
+[✓] No patient-identifying information used.
+
+WARNING: For an exact platform submission, replace the constructed cases/reference with the actual supplied Vulenex reference and four source cases once those files are provided.

@@ -1,0 +1,11 @@
+STEP-BY-STEP TASK GUIDE
+
+Objective: Apply structured safety reasoning while keeping seriousness, severity, and causality distinct.
+
+1. Apply the Naranjo or WHO-UMC framework to each sample case.
+2. Classify seriousness criteria and explain reporting implication.
+3. Assess expectedness against the supplied product reference.
+4. Record transparent rationale for every classification.
+5. Submit one public or view-only link with supporting files together.
+
+Deliverable: Completed assessment matrix with written rationale for every classification.

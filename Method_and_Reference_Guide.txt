@@ -1,0 +1,9 @@
+CAUSALITY, SERIOUSNESS, AND EXPECTEDNESS — TRAINING REFERENCE
+
+SOURCE-MATERIAL LIMITATION
+The task screenshot states that the required source material includes a fictional Vulenex product reference and four sample assessment cases. Those underlying files were not attached and could not be located in the available Library search. To avoid falsely representing invented facts as supplied facts, this package labels the four cases and Vulenex expectedness assumptions as CONSTRUCTED TRAINING MATERIAL.
+
+1. Causality: Apply Naranjo or WHO-UMC reasoning using temporal relationship, alternative causes, dechallenge/rechallenge, dose-response, objective evidence and prior knowledge.
+2. Seriousness: classify recognized serious-event criteria separately from severity; examples include death, life-threatening event, hospitalization/prolongation, persistent/significant disability, congenital anomaly, or other medically important event requiring intervention to prevent a serious outcome.
+3. Expectedness: assess against the applicable product reference safety information. The expectedness labels marked * in this draft depend on a constructed reference because the actual supplied reference was unavailable.
+4. Keep causality, seriousness and expectedness independent; do not upgrade causality merely because an event is serious or expected.
